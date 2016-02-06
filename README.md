@@ -1,2 +1,2 @@
 # Underhacker.github.io
-Underhacker group main website.
+Underhacker's website. Intend to be informational and simple.
